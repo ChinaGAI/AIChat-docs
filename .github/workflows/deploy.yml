@@ -31,6 +31,6 @@ jobs:
           host: ${{ secrets.REMOTE_HOST }}
           username: ${{ secrets.REMOTE_USERNAME }}
           key: ${{ secrets.PRIVATE_KEY }}
-          strip_components: 1
+          strip_components: 2
           source: ".vitepress/dist/*"
           target: "/www/wwwroot/doc.aieo.cn"
