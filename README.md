@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://chat.aieo.cn/icon.png" alt="预览"/>
-<h1 align="center">NextChat</h1>
+<h1 align="center">AI Chat</h1>
 
 一键免费部署你的 AI Chat 网页应用，支持 GPT3, GPT4 & 月之暗面 模型。
 
