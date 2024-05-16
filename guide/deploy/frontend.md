@@ -9,8 +9,8 @@
 ### 项目运行
 
 ```sh
-git clone https://github.com/ChinaGAI/AI-CHAT
-cd ai-chat
+git clone https://github.com/ChinaGAI/AIChat
+cd AIChat
 npm install & npm install -g pm2
 npm run build
 pm2 start npm --name "ai-chat" -- start
